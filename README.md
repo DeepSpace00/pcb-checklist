@@ -7,3 +7,4 @@ New checklist suggestions, or organizational tweaks, are welcome.
 
 * [Schematic review checklist](schematic-checklist.md)
 * [Layout review checklist](layout-checklist.md)
+* [Other checklists](https://pcbchecklist.com/)

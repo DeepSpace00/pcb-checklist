@@ -7,6 +7,7 @@
 1.3 Are design decisions well documented?	
 * [ ] 1.3.1 Within or separate from the schematic/drawings?	\n\n
 
+
 * [ ] 1.4 Has ERC been set up and configured?	
 * [ ] 1.5 Has grid size been selected?	
 * [ ] 1.6 Has paper sizes been selected for sheets?	

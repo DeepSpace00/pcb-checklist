@@ -23,7 +23,7 @@
 - * [ ] 2.1.8 Do symbols match chosen component package?	
 - * [ ] 2.1.9 Are datasheets included with each symbol?	
 ### 2.2 Functionality
-- 2.2.1 Are all pins on all ICs handled?	
+#### 2.2.1 Are all pins on all ICs handled?	
 - * [ ] 2.2.1.1 Beak-out of extra pins from ICs or subsystems?	
 - * [ ] 2.2.2 Are mating connectors on different boards matched in pin-out?	
 - * [ ] 2.2.3 Have necessary inputs been ESD protected?	

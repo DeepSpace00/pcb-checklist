@@ -1,13 +1,11 @@
 # Schematic review checklist
 
 ## 1 Document Setup
-- * [ ] 1.1 Is there a method for tracking versions/revisions?	
+* [ ] 1.1 Is there a method for tracking versions/revisions?	
 * [ ] 1.2 Is source version control used? (Git, SVN, etc.)
 
 1.3 Are design decisions well documented?	
-* [ ] 1.3.1 Within or separate from the schematic/drawings?	\n\n
-
-
+- * [ ] 1.3.1 Within or separate from the schematic/drawings?	\n\n
 * [ ] 1.4 Has ERC been set up and configured?	
 * [ ] 1.5 Has grid size been selected?	
 * [ ] 1.6 Has paper sizes been selected for sheets?	

@@ -91,3 +91,61 @@
 - * [ ] 2.4.1 Power estimates for all large / high power ICs	
 - * [ ] 2.4.2 Thermal calculations for all large / high power ICs	
 - * [ ] 2.4.3 Specify heatsinks as needed	
+## 3 Components
+### 3.1 Are the necessary components in stock?	
+- * [ ] 3.1.1 With a margin for defects/failures/loss?	
+- * [ ] 3.1.2 With a margin for spill from Pick-and-Place machine?	
+* [ ] 3.2 Are voltage ratings of components sufficient?	
+* [ ] 3.3 Are any components expected for obsoletion?	
+* [ ] 3.4 Are there multiple sources?	
+* [ ] 3.5 Are there alternative manufacturers?	
+* [ ] 3.6 Are suitable alternatives identified?	
+* [ ] 3.7 Have errata sheets been checked?	
+* [ ] 3.8 Do any pins need pull-up/pull-down for initialization or addresses?	
+* [ ] 3.9 Are some functions only available in certain modes?	
+* [ ] 3.10 Are there inputs and outputs organized in banks	
+## 4 Documentation and notes
+* [ ] 4.1 Unpopulated parts are clearly marked	
+* [ ] 4.2 Are destinations noted if the go to other sheets?	
+* [ ] 4.3 Are connections marked with expected current draw?	
+### 4.4 Has special PCB or layout requirments been noted
+- * [ ] 4.4.1 Impedance?	
+- * [ ] 4.4.2 Ground planes?	
+- * [ ] 4.4.3 Routing?	
+- * [ ] 4.4.4 Keep-outs?	
+- * [ ] 4.4.5 References to datasheet's recommendations? 	
+* [ ] 4.5 Notes explaining purpose, functionality, origin, references and calculations for circuits	
+## 5 Drafting
+* [ ] 5.1 No overlap between text, notes references, wires, symbols, etc.?	
+* [ ] 5.2 Is all text horizontal?	
+### 5.3 Do all components have references and values?	
+- * [ ] 5.3.1 Are values in a uniform format?	
+- * [ ] 5.3.2 Are references using standard designators?	
+- * [ ] 5.3.3 Are references placed unambiguously?	
+- * [ ] 5.3.4 Decimal point avoided?	
+* [ ] 5.4 Are all junctions dotted?	
+* [ ] 5.5 Are no-connects marked?	
+* [ ] 5.6 No 4-way connections?	
+* [ ] 5.7 No upwards pointing ground symbols?	
+* [ ] 5.8 Are component references ordered by schematic layout?	
+* [ ] 5.9 Are the appropriate power nets connected? (Vcc, Vss, Vdd)	
+* [ ] 5.10 Net names on top of lines	
+* [ ] 5.11 Are unused nets left unlabeled?	
+* [ ] 5.12 All connections/markings have a purpose?	
+## 6 Sheets
+* [ ] 6.1 Sheets are consistently sized	
+* [ ] 6.2 Readable when printed	
+* [ ] 6.3 Logical layout should go left-right, top-bottom	
+### 6.4 Header/block	
+- * [ ] 6.4.1 Name of author	
+- * [ ] 6.4.2 Name of reviewer	
+- * [ ] 6.4.3 List of revisions and changes	
+- * [ ] 6.4.4 Date	
+- * [ ] 6.4.5 Revision	
+- * [ ] 6.4.6 Company / Organization	
+- * [ ] 6.4.7 Sheet/drawing number	
+- * [ ] 6.4.8 Header/block exported to other sheets as necessary	
+## 7 Final
+* [ ] 7.1 Has ERC passed?	
+
+

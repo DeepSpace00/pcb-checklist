@@ -1,10 +1,10 @@
-This is a design review checklist for signoff review on all PCB designs.
+Design review checklist to sign off for all PCB design reviews.
 
-Please use my checklist, I made these mistakes so you don't have to! Nearly every line item here came from the school
-of hard knocks.
+Forked from [azonenberg/pcb-checklist](https://github.com/azonenberg/pcb-checklist)
 
-New checklist suggestions, or organizational tweaks, are welcome.
+Information also from [https://pcbchecklist.com](https://pcbchecklist.com/)
 
 * [Schematic review checklist](schematic-checklist.md)
 * [Layout review checklist](layout-checklist.md)
+
 * [Other checklists](https://pcbchecklist.com/)
